@@ -1,0 +1,15 @@
+-- #0f1110 Black
+-- #1e3a3c Blue Grey:
+-- #582918 Red Brown
+-- #6c2c10 Brick
+-- #975323 Orange
+-- #2d4628 Forest Green
+-- #677621 Moss Green
+-- #4c8653 Seafoam Green
+-- #356a84 Desaturated Blue
+-- #1f3078 Royal Blue
+-- #1d2032 Blue Black
+-- #a99b28 Dark Gold
+-- #7d97af Sky Blue
+-- #6f766c Neutral Gray
+-- #babebb Off White
